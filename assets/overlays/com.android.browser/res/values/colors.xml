@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navtab_bg">#ff1c1e20</color>
+    <color name="qc_normal">#cc888888</color>
+    <color name="qc_selected">#cc636363</color>
+    <color name="qc_sub">#cc888888</color>
+    <color name="qc_tab_nr">#cc636363</color>	
+</resources>

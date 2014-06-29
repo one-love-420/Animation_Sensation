@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="0" android:drawable="@drawable/blank" />
+    <item android:duration="80" android:drawable="@drawable/notta_shattering_dialer_1" />
+    <item android:duration="80" android:drawable="@drawable/notta_shattering_dialer_2" />
+    <item android:duration="80" android:drawable="@drawable/notta_shattering_dialer_3" />
+    <item android:duration="80" android:drawable="@drawable/notta_shattering_dialer_4" />
+    <item android:duration="80" android:drawable="@drawable/notta_shattering_dialer_5" />
+    <item android:duration="80" android:drawable="@drawable/notta_shattering_dialer_6" />
+    <item android:duration="80" android:drawable="@drawable/notta_shattering_dialer_7" />
+    <item android:duration="80" android:drawable="@drawable/notta_shattering_dialer_8" />
+    <item android:duration="80" android:drawable="@drawable/notta_shattering_dialer_9" />
+    <item android:duration="80" android:drawable="@drawable/notta_shattering_dialer_10" />
+    <item android:duration="80" android:drawable="@drawable/notta_shattering_dialer_11" />
+    <item android:duration="80" android:drawable="@drawable/notta_shattering_dialer_12" />
+    <item android:duration="80" android:drawable="@drawable/notta_shattering_dialer_13" />
+    <item android:duration="80" android:drawable="@drawable/notta_shattering_dialer_14" />
+    <item android:duration="80" android:drawable="@drawable/notta_shattering_dialer_15" />
+    <item android:duration="80" android:drawable="@drawable/notta_shattering_dialer_16" />
+    <item android:duration="80" android:drawable="@drawable/notta_shattering_dialer_17" />
+    <item android:duration="80" android:drawable="@drawable/notta_shattering_dialer_18" />
+    <item android:duration="80" android:drawable="@drawable/notta_shattering_dialer_19" />
+    <item android:duration="80" android:drawable="@drawable/notta_shattering_dialer_20" />
+    <item android:duration="80" android:drawable="@drawable/notta_shattering_dialer_21" />
+    <item android:duration="0" android:drawable="@drawable/blank" />
+</animation-list>

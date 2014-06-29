@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ingest_highlight_semitransparent">#88ffffff</color>
+    <color name="ingest_date_tile_text">#ffffffff</color>
+    <color name="review_control_pressed_color">#ffffffff</color>
+    <color name="review_control_pressed_fan_color">#3fffffff</color>
+    <color name="popup_title_color">#ffffffff</color>
+    <color name="mode_selection_border">#ffffffff</color>
+    <color name="pano_progress_done">#ff888888</color>
+    <color name="pano_progress_indication">#ffffffff</color>
+    <color name="selectedpaint_color">#a0cccccc</color>
+    <color name="subpaint_color">#c8fae680</color>
+    <color name="menuarcpaint_color">#8cffffff</color>
+    <color name="popup_background">#a0282828</color>
+</resources>

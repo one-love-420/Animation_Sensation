@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <color name="pressed">#33888888</color>
+    <color name="calendar_grid_area_selected">#e6888888</color>
+    <color name="day_event_clicked_background_color">#80888888</color>
+    <color name="day_clicked_background_color">#ff888888</color>
+    <color name="appwidget_row_in_progress">#66888888</color>
+    <color name="blue">#ff888888</color> 
+</resources>
