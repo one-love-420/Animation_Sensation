@@ -3,5 +3,5 @@
     <color name="linear_color_bar_left_color">#ffffffff</color>
     <color name="linear_color_bar_middle_color">#ffffffff</color>
     <color name="linear_color_bar_right_color">#ff888888</color>
-	<color name="no_recent_apps">#ffffffff</color>
+    <color name="no_recent_apps">#ffffffff</color>
 </resources>
