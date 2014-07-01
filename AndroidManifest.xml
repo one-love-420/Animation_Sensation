@@ -16,14 +16,14 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.onelove.theme" android:versionName="1.0" android:versionCode="2">
+    package="com.onelove.theme" android:versionName="1.0" android:versionCode="3">
 
     <uses-feature android:required="true" android:name="org.cyanogenmod.theme" />
 
-    <application android:hasCode="false" android:icon="@drawable/ic_launcher" android:label="Theme Template">
+    <application android:hasCode="false" android:icon="@drawable/ic_launcher" android:label="Animation Sensation">
     </application>
 
-    <meta-data android:name="org.cyanogenmod.theme.name" android:value="Theme Template"/>
-    <meta-data android:name="org.cyanogenmod.theme.author" android:value="CyanogenMod" />
+    <meta-data android:name="org.cyanogenmod.theme.name" android:value="Animation Sensation"/>
+    <meta-data android:name="org.cyanogenmod.theme.author" android:value="one_love_420" />
 
 </manifest>
