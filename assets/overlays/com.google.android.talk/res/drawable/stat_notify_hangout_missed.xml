@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="90" android:drawable="@drawable/stat_notify_hangout_missed0" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_hangout_missed1" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_hangout_missed2" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_hangout_missed3" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_hangout_missed4" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_hangout_missed5" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_hangout_missed6" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_hangout_missed7" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_hangout_missed8" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_hangout_missed9" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_hangout_missed8" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_hangout_missed7" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_hangout_missed6" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_hangout_missed5" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_hangout_missed4" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_hangout_missed3" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_hangout_missed2" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_hangout_missed1" />
+</animation-list>
