@@ -16,7 +16,7 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.onelove.theme" android:versionName="1.0" android:versionCode="1">
+    package="com.onelove.theme" android:versionName="1.0" android:versionCode="2">
 
     <uses-feature android:required="true" android:name="org.cyanogenmod.theme" />
 
