@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="90" android:drawable="@drawable/stat_notify_manage0" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_manage1" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_manage2" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_manage3" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_manage4" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_manage5" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_manage6" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_manage7" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_manage8" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_manage9" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_manage8" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_manage7" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_manage6" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_manage5" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_manage4" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_manage3" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_manage2" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_manage1" />
+</animation-list>
