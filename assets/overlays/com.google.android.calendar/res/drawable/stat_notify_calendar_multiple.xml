@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="90" android:drawable="@drawable/stat_notify_calendar_multiple0" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_calendar_multiple1" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_calendar_multiple2" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_calendar_multiple3" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_calendar_multiple4" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_calendar_multiple5" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_calendar_multiple6" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_calendar_multiple7" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_calendar_multiple8" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_calendar_multiple9" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_calendar_multiple8" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_calendar_multiple7" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_calendar_multiple6" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_calendar_multiple5" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_calendar_multiple4" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_calendar_multiple3" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_calendar_multiple2" />
+    <item android:duration="90" android:drawable="@drawable/stat_notify_calendar_multiple1" />
+</animation-list>
