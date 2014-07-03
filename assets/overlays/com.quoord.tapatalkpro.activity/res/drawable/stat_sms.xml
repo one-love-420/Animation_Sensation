@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="90" android:drawable="@drawable/stat_sms0" />
+    <item android:duration="90" android:drawable="@drawable/stat_sms1" />
+    <item android:duration="90" android:drawable="@drawable/stat_sms2" />
+    <item android:duration="90" android:drawable="@drawable/stat_sms3" />
+    <item android:duration="90" android:drawable="@drawable/stat_sms4" />
+    <item android:duration="90" android:drawable="@drawable/stat_sms5" />
+    <item android:duration="90" android:drawable="@drawable/stat_sms6" />
+    <item android:duration="90" android:drawable="@drawable/stat_sms7" />
+    <item android:duration="90" android:drawable="@drawable/stat_sms8" />
+    <item android:duration="90" android:drawable="@drawable/stat_sms9" />
+    <item android:duration="90" android:drawable="@drawable/stat_sms8" />
+    <item android:duration="90" android:drawable="@drawable/stat_sms7" />
+    <item android:duration="90" android:drawable="@drawable/stat_sms6" />
+    <item android:duration="90" android:drawable="@drawable/stat_sms5" />
+    <item android:duration="90" android:drawable="@drawable/stat_sms4" />
+    <item android:duration="90" android:drawable="@drawable/stat_sms3" />
+    <item android:duration="90" android:drawable="@drawable/stat_sms2" />
+    <item android:duration="90" android:drawable="@drawable/stat_sms1" />
+</animation-list>
